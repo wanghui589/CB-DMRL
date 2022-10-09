@@ -1,5 +1,5 @@
 # CB-DMRL
-This for the paper" Rapid Adaptation for Active Pantograph Control in High-speed Railway via Deep"\
+This for the paper" Rapid Adaptation for Active Pantograph Control in High-speed Railway via Deep Meta Reinforcement Learning"\
 Code is under preparation, please be patient.
 
 # Abstract
